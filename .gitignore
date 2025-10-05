@@ -1,0 +1,9 @@
+frontend/.env
+frontend/build
+frontend/node_modules
+frontend/dist
+backend/node_modules
+backend/.env
+backend/dist
+backend/.serverless
+/ssh-keys
